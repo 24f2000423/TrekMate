@@ -1,2 +1,2 @@
-# TrekMate
-Adventure organizations require efficient systems to manage trekking activities involving trek organizers, staff, and participants. Currently, many trekking groups rely on spreadsheets, calls, or manual coordination, which makes it difficult to manage trek approvals, participant registrations, slot availability, and booking tracking.
+##TrekMate
+TrekMate is a comprehensive trekking management platform designed to streamline the organization and coordination of trekking activities. Adventure clubs and trekking organizations often face challenges in managing trek schedules, participant registrations, approvals, slot availability, and booking records through manual methods such as spreadsheets, phone calls, and messaging applications.
